@@ -1,1 +1,1 @@
-# STAT3014 assignment
+# STAT3014 major assignment
